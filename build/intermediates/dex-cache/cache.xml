@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_fb4998b809ef9aa8097b8da7e6e234db229d5333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_7f7f9381d05a0fa0d6f1671352e43314d340e510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_c2cf3a01aa309ab11880f51b852bd6150dae1f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_1b1ad25719cf7082250d68ce46a77842291145f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_45e4f928d135fd54743c663b055affaf6c239841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_d802c3f798e502511862f15173d2e66cdf80cd1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_d841e0c9b9f1766e1dbcbe58716cc04df09ebdb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_60a9d9f685cc401118a641ab33f17fe39b2bd146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_297046b61e551ca5f7c68cf791011952bd7f8c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_9b75d94649870b3ab2666662e63d0764322466b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_9f7e0a41336dde5ee9cfdbbae97a9511fd23c182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_9ad7184236f9ca3a7223d4b0e530f3f5c65e1e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_7a2e768e8803155b7990d4db034505072c81a52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_5998c09d353d55b73cf7f4043d96e9ae81de74a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_2e049c78e38ce8aa5c6c04519c5c1e79c01e8ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_01521e02f5e2813d005c5e4ada0acfc4d906c63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_237d44cb814e72a67fa99260d19854e76080e1d4.jar" />
+    </item>
+
+</items>
