@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:18:9-20:68
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.example.rahul.bmicalci.SplashActivity
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:22:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.rahul.bmicalci.MainActivity
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.example.rahul.bmicalci.calculate
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:30:9-47
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:30:19-44
+activity#com.example.rahul.bmicalci.ResultActivity
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:31:9-38:20
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:32:13-37:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:34:27-73
+data
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:36:17-51
+	android:mimeType
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:36:23-48
+activity#com.example.rahul.bmicalci.HistoryDisplay
+ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:39:9-61
+	android:name
+		ADDED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:39:19-49
+uses-sdk
+INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:25:8-31
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\src\main\AndroidManifest.xml:2:1-42:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rahul\AndroidStudioProjects\BMIcalci\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\AndroidManifest.xml:26:9-47
